@@ -1,0 +1,7 @@
+MGW-Tiger Shelf-1	123545
+IMS-Varuna Slot-2	123892
+MGW-Lion Shelf-3	894723
+MGW-Wolf Shelf-4	641380
+IMS-Varuna Slot-5	234890
+RNC-BLR Slot-1		341300
+RNC-MCH Slot-2		123092

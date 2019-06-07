@@ -1,0 +1,8 @@
+cluster Id: MGW-Lion	Object Id : Shelf-3
+ cluster Id: MGW-Wolf	Object Id : Shelf-4
+ cluster Id: RNC-BLR	Object Id : Slot-1
+ cluster Id: IMS-Varuna	Object Id : Slot-2
+ cluster Id: RNC-MCH	Object Id : Slot-2
+ cluster Id: IMS-Varuna	Object Id : Slot-5
+ cluster Id: MGW-Tiger	Object Id : shelf-1
+ 
